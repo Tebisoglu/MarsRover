@@ -1,0 +1,9 @@
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\bin\Debug\netcoreapp3.1\RoverDomain.deps.json
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\bin\Debug\netcoreapp3.1\RoverDomain.dll
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\bin\Debug\netcoreapp3.1\RoverDomain.pdb
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\obj\Debug\netcoreapp3.1\RoverDomain.csprojAssemblyReference.cache
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\obj\Debug\netcoreapp3.1\RoverDomain.AssemblyInfoInputs.cache
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\obj\Debug\netcoreapp3.1\RoverDomain.AssemblyInfo.cs
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\obj\Debug\netcoreapp3.1\RoverDomain.csproj.CoreCompileInputs.cache
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\obj\Debug\netcoreapp3.1\RoverDomain.dll
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverDomain\obj\Debug\netcoreapp3.1\RoverDomain.pdb

@@ -1,0 +1,12 @@
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\bin\Debug\netcoreapp3.1\RoverApplication.deps.json
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\bin\Debug\netcoreapp3.1\RoverApplication.dll
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\bin\Debug\netcoreapp3.1\RoverApplication.pdb
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\bin\Debug\netcoreapp3.1\RoverDomain.dll
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\bin\Debug\netcoreapp3.1\RoverDomain.pdb
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.csprojAssemblyReference.cache
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.AssemblyInfoInputs.cache
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.AssemblyInfo.cs
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.csproj.CoreCompileInputs.cache
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.csproj.CopyComplete
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.dll
+D:\özcan\Hepsiburada\Case\MarsRover\MarsRover\RoverApplication\obj\Debug\netcoreapp3.1\RoverApplication.pdb

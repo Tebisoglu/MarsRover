@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25wDVuOEtNA7KQp0TdoN2rNmMdGDYsq/2hfSwvdO4X8tkkvt/wdm/ZnkMHbde5D+QTz3NXdOcrtIDMLOvzpFjA==",
+  "success": true,
+  "projectFilePath": "D:\\özcan\\Hepsiburada\\Case\\MarsRover\\MarsRover\\EarthCommandSenderPanel\\EarthCommandSenderPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EXT02D8809\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

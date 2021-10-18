@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RdnS5cphUlAB3jYSvfMGZFVgcufh+Yu2saqNEwdlr+2a0boB7xT3dledL44KaEdO2QlILLlQ33nZgC6MmcK6Jw==",
+  "dgSpecHash": "clslIZReW1gRaqHcHrJEZCCGBHTMQw38z6yc67rhri8HJS1x8ziMdsXGeaijgkzFl5TmA2LHhUFNozxt/QwCIw==",
   "success": true,
   "projectFilePath": "D:\\özcan\\Hepsiburada\\Case\\MarsRover\\MarsRover\\RoverInfrastructure\\RoverInfrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EXT02D8809\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
